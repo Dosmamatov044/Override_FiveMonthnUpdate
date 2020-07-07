@@ -1,0 +1,38 @@
+<resources>
+
+    <string-array name="types">
+
+
+        <item>education</item>
+         <item>social</item>
+        <item>music</item>
+
+
+        <item>diy</item>
+         <item>
+       
+         </item>
+         <item>
+
+         </item>
+         <item>
+
+         </item>
+         <item>
+
+         </item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+
+
+
+
+
+
+     </string-array>
+
+</resources>
